@@ -6,6 +6,10 @@ My intention is that it will enable everyone to stay clean and secure as indepen
 
 The lectures contain all configurations and sources.
 
+As additional reading, I recommend: 
+
+"Defensive Security Handbook: Best Practices for Securing Infrastructure" by Lee Brotherston and Amanda Berlin
+
 
 # Blackbox
 
